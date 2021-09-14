@@ -34,7 +34,7 @@ export default props =>
             </div>
             <div className="col-12 col-md-6">
                 <div className="form-group">
-                    <label>Birth Date</label>
+                    <label>Data de nascimento</label>
                     <input type="date"
                         name="Birth-Date"
                         id="email"
@@ -48,7 +48,7 @@ export default props =>
             </div>
             <div className="col-12 col-md-6">
                 <div className="form-group">
-                    <label>StartDate</label>
+                    <label>Data inicial</label>
                     <input type="date"
                         name="StartDate"
                         id="StartDate"
@@ -76,7 +76,7 @@ export default props =>
             </div>
             <div className="col-12 col-md-6">
                 <div className="form-group">
-                    <label>Genders</label>
+                    <label>Genero</label>
                     <input type="Gender"
                         name="Gender"
                         id="Gender"
@@ -90,7 +90,7 @@ export default props =>
             </div>
             <div className="col-12 col-md-6">
                 <div className="form-group">
-                    <label>Team</label>
+                    <label>Time</label>
                     <input type="Team"
                         name="Team"
                         id="team"
