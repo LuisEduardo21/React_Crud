@@ -7,7 +7,7 @@ import { NotificationContainer, NotificationManager } from 'react-notifications'
 
 import Logo from '../components/template/Logo'
 import Nav from '../components/template/Nav'
-import Routes from './Routes'
+import Routes from './Router'
 import Footer from '../components/template/Footer'
 
 export default props =>

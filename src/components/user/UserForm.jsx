@@ -62,7 +62,7 @@ export default props =>
             </div>
             <div className="col-12 col-md-6">
                 <div className="form-group">
-                    <label><CPF>CPF</CPF></label>
+                    <label>CPF</label>
                     <input type="number"
                         name="CPF"
                         id="CPF"
@@ -90,7 +90,7 @@ export default props =>
             </div>
             <div className="col-12 col-md-6">
                 <div className="form-group">
-                    <label><Team>Team</Team></label>
+                    <label>Team</label>
                     <input type="Team"
                         name="Team"
                         id="team"
